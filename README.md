@@ -1,10 +1,3 @@
-# ALUNIS
-
-<p align="center">
-  <img src="docs/images/Check_In.png"
-     alt="Tela inicial do ALUNIS"
-     width="320">
-</p>
 
 # ALUNIS
 
@@ -25,6 +18,12 @@ A ideia não é apenas organizar estudos, mas entender como eles acontecem. Com 
 ---
 
 ## Por onde estou começando
+
+<p align="center">
+  <img src="docs/images/Check_In.png"
+     alt="Tela inicial do ALUNIS"
+     width="320">
+</p>
 
 O desenvolvimento está começando pela tela de **Check-in**.
 
