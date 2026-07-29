@@ -1,7 +1,7 @@
 # ALUNIS
 
 <p align="center">
-  <img src="docs/images/checkin.png"
+  <img src="docs/images/Check_In.png"
      alt="Tela inicial do ALUNIS"
      width="320">
 </p>
